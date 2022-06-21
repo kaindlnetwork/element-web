@@ -1,4 +1,4 @@
-FROM vectorim/element-web
+FROM vectorim/element-web:v1.10.15
 
 MAINTAINER Fabian Kaindl <gitlab-docker@fabiankaindl.de>
 # Copy Script into the container
